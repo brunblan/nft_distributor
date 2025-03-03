@@ -1,0 +1,23 @@
+{
+  "First Stage": [
+    { "mint": "CfNxrRYRJHwsC4KRB8hHHXPtv73NoGdec5Jr3RmQQQgE", "name": "Cool NFT #1" },
+    { "mint": "9X1KQELobdzqbHFp4Nik4MLd5FNLhPrXCHNGtgx52fUj", "name": "Awesome NFT #2" },
+    { "mint": "G5AVzyTrTbJuUTJXSeeqrPewNAnskNZqtRdPkZyQvxoh", "name": "Rare NFT #3" }
+  ],
+  "Second Stage": [
+    { "mint": "J4BZkJRRabCRWWrKBvM1C4vXaipbrenYYPKg48UhZHqh", "name": "Epic NFT #4" },
+    { "mint": "7kcAiwNe676tyVSaiAjGwt2Ff6NngCvYekU4nthhMxGJ", "name": "Legendary NFT #5" }
+  ],
+  "Third Stage": [
+    { "mint": "BiMrnvbRifmrtZ7e2nnfnyHTHdEhWrUwDFqx7iBJ13s9", "name": "Mythic NFT #6" },
+    { "mint": "2bt6mRgmGKVkMRET2nhKQtUkLEqKq8KsSzdXacaaHUZR", "name": "Golden NFT #7" },
+    { "mint": "EBTmkEBmZSPUDB2QmqeVs91fg3nqCDNzRVyaAr5EBwQR", "name": "Silver NFT #8" }
+  ],
+  "Fourth Stage": [
+    { "mint": "5EaKE77AMyk22H9gVDHVxrrM5tZ2Ms9XZCEmdsTsBRRu", "name": "Platinum NFT #9" }
+  ],
+  "Fifth Stage": [
+    { "mint": "A34nBHBnZjhf9VseiWjcr2FrqYYH6wZ4wkxZPWvY7r45", "name": "Diamond NFT #10" },
+    { "mint": "CvtiFLPvY89JEg1QAUg9tZnR3FJm1nTMnGdDJHLZXdnF", "name": "Emerald NFT #11" }
+  ]
+}
